@@ -1,0 +1,49 @@
+/*
+Project: Dasmoto's Arts &#38; Crafts
+Description: Fictional arts and crafts store
+Version: 1.0
+Author: David Miklus
+*/
+
+
+h1, h2, h3, p {
+	font-family: Helvetica;
+}
+
+
+h1 {
+	font-size: 100px;
+	font-weight: bold;
+	color: khaki;
+	text-align: center;
+	background-image: url(../img/pattern.jpeg);
+}
+
+h2 {
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+}
+
+h3 {
+	font-size: 18.72px;
+	font-weight: bold;
+	
+}
+
+h2#brushes {
+	background-color: mediumspringgreen;
+}
+
+h2#frames {
+	background-color: lightcoral;
+}
+
+h2#paint {
+	background-color: skyblue;
+}
+
+span.price {
+	color: blue;
+	font-weight: bold;
+}
